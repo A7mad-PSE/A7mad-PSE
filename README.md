@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Ahmad 👋
 
-<!--
-**A7mad-PSE/A7mad-PSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A cybersecurity student sharing my learning journey with you —
+tools I discover, labs I break, and skills I'm building.
 
-Here are some ideas to get you started:
+## About Me
+2nd-year Cybersecurity student
+Birzeit University in Palestine
+I share what I learn 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I Like To Use
+Kali Linux - Arch Linux
+TryHackMe - Hack The Box
+Language's : C , Java , Python , C++
+
+##  Currently Learning
+
+ Network security & ethical hacking
+ CTF challenges
+ 
+## Reach Me
+GitHub: you're already here 
+Email: [aliahmadhasan1997@gmail.com]
+
