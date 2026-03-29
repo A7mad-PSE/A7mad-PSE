@@ -1,6 +1,5 @@
 ## Hi there, I'm Ahmad 👋
-A cybersecurity student sharing my learning journey with you 
-
+A cybersecurity student sharing my learning journey with you-
 tools I discover, labs I break, and skills I'm building.
 
 ## About Me
