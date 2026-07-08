@@ -121,7 +121,7 @@ timeline
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://ghstats.dev/api/top-langs?username=A7mad-PSE&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=A7mad-PSE&theme=tokyo-night"/>
 </p>
 
 ---
@@ -130,15 +130,21 @@ timeline
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=A7mad-PSE&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A7mad-PSE&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7mad-PSE&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A7mad-PSE&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=A7mad-PSE&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A7mad-PSE&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=A7mad-PSE&theme=tokyonight&hide_border=true"/>
 
 </p>
 
