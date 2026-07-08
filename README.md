@@ -110,14 +110,6 @@ timeline
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=A7mad-PSE&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
