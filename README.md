@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/github/followers/A7mad-PSE?style=social">
   </a>
 
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
-  </a>
+  <a href="https://www.linkedin.com/in/ahmad-ali-hasan-424161389">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge">
+</a>
 
   <a href="https://tryhackme.com/p/your-username">
     <img src="https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme">
