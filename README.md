@@ -155,7 +155,7 @@ timeline
 </a>
 
 <a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge">
+<img src="https://linkedin.com/in/ahmad-ali-hasan-424161389">
 </a>
 
 <a href="https://tryhackme.com/p/your-username">
