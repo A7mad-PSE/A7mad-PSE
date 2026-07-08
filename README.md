@@ -21,16 +21,6 @@
 ---
 
 ## 📖 About Me
-
-```ascii
-   ______                _   _                     
-  / _____)              | | (_)                    
- | /      _   _   ____  | |  _   ____   ___   ___ 
- | |     | | | | / _  | | | | | / _  | / _ \ / _ \
- | \_____| |_| | ( ( | | | | | | ( ( | | |_| | |_| |
-  \______)____/  \_||_| |_| |_|  \_||_| \___/ \___/
-```
-
 🎓 **2nd-year Cybersecurity Student** at **Birzeit University**, Palestine  
 💻 Passionate about **network security**, **ethical hacking**, and **CTF challenges**  
 📚 Sharing my learning journey – tools I discover, labs I break, and skills I'm building  
@@ -80,13 +70,19 @@ timeline
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A7mad-PSE&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A7mad-PSE&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7mad-PSE&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
+<!-- Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=A7mad-PSE&show_icons=true&theme=radical&v=1" alt="GitHub Stats" />
+<br />
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=A7mad-PSE&theme=radical&v=1" alt="GitHub Streak" />
+<br />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7mad-PSE&layout=compact&theme=radical&v=1" alt="Top Languages" />
+
+</div>
 ---
 
 ## 🎯 My Projects
