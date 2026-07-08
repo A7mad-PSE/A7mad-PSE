@@ -113,7 +113,7 @@ timeline
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=A7mad-PSE&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=A7mad-PSE&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
