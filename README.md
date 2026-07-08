@@ -21,10 +21,11 @@
 ---
 
 ## 📖 About Me
+
 🎓 **2nd-year Cybersecurity Student** at **Birzeit University**, Palestine  
 💻 Passionate about **network security**, **ethical hacking**, and **CTF challenges**  
 📚 Sharing my learning journey – tools I discover, labs I break, and skills I'm building  
-🌱 Currently exploring **penetration testing** and **digital forensics**
+🌱 Currently exploring **penetration testing**, **digital forensics**, and **network design**
 
 ---
 
@@ -57,23 +58,24 @@ timeline
          : Network Security
     2026 : Advanced Exploitation
          : Digital Forensics
-         : OSCP Preparation
+         : OSCP Preparation (in progress)
 ```
 
-- 🔥 **Network security** & **ethical hacking** fundamentals
+- 🔥 **Network security** & **ethical hacking** (ongoing)
 - ⚔️ **CTF challenges** – building practical skills
 - 🔍 **Penetration testing** methodologies
 - 📡 **Digital forensics** & incident response
+- 🌐 **Enterprise network design** (Cisco Packet Tracer)
 
 ---
-
 
 ## 🎯 My Projects
 
 | Project | Description |
 |---------|-------------|
-| 🔐 **[AES Encryption Project](https://github.com/A7mad-PSE/AES-Encryption-Project)** | Java implementation of AES with multiple cipher modes (ECB, CFB, OFB) + email integration |
-| 🌐 **[TCP vs UDP Comparison](https://github.com/A7mad-PSE/TCP-vs-UDP)** | Python client-server applications demonstrating TCP vs UDP differences |
+| 🔐 **[AES Encryption Project](https://github.com/A7mad-PSE/AES-Encryption-Project)** | Java implementation of AES with ECB, CFB, OFB modes + email integration |
+| 🌐 **[TCP vs UDP Comparison](https://github.com/A7mad-PSE/TCP-vs-UDP)** | Python client-server apps demonstrating TCP vs UDP differences |
+| 🏗️ **[Enterprise Network Design](https://github.com/A7mad-PSE/Network-Design)** | Cisco Packet Tracer simulation with VLSM, static routing, DHCP, DNS, HTTP, Email |
 | 🛡️ **[Coming Soon...]** | Something exciting in the works! |
 
 ---
