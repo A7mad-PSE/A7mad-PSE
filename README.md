@@ -121,7 +121,7 @@ timeline
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=A7mad-PSE&theme=tokyo-night"/>
+<img src="https://ghstats.dev/api/top-langs?username=A7mad-PSE&theme=tokyonight"/>
 </p>
 
 ---
