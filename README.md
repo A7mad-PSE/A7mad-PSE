@@ -67,23 +67,6 @@ timeline
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=A7mad-PSE&show_icons=true&theme=radical&v=1" alt="GitHub Stats" />
-<br />
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=A7mad-PSE&theme=radical&v=1" alt="GitHub Streak" />
-<br />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7mad-PSE&layout=compact&theme=radical&v=1" alt="Top Languages" />
-
-</div>
----
 
 ## 🎯 My Projects
 
