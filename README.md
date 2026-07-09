@@ -106,6 +106,7 @@ timeline
 | 🌐 **[TCP vs UDP Comparison](https://github.com/A7mad-PSE/TCP-vs-UDP)** | Python client/server comparison of TCP and UDP |
 | 🔍 **[Network Scanner](https://github.com/A7mad-PSE/Network-Scanner)** | Python scanner with Ping Sweep, Port Scanner and OS Detection |
 | 🏗️ **[Enterprise Network Design](https://github.com/A7mad-PSE/Network-Design)** | Cisco Packet Tracer project using VLSM, DHCP, DNS, HTTP and Email |
+| 🚀 **[Git Pusher](https://github.com/A7mad-PSE/Git-Pusher)** | Shell script that automates pushing new projects to GitHub |
 | 🛡️ More Coming Soon | More cybersecurity projects are on the way! |
 ---
 
