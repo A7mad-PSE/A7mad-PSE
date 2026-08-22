@@ -108,6 +108,7 @@ timeline
 | 🏗️ **[Enterprise Network Design](https://github.com/A7mad-PSE/Network-Design)** | Cisco Packet Tracer project using VLSM, DHCP, DNS, HTTP and Email |
 | 🚀 **[Git Pusher](https://github.com/A7mad-PSE/Git-Pusher)** | Shell script that automates pushing new projects to GitHub |
 | 📁 **[AutoFileSorter](https://github.com/A7mad-PSE/Auto-File-Sorter)** | Python CLI tool to organize messy folders by file type |
+| 🏨 **[Hotel-Management-System](https://github.com/A7mad-PSE/Hotel-Management-System-SLL-CDLL)** | Java & JavaFX Hotel management system using SLL and CDLL |
 | 🛡️ More Coming Soon | More cybersecurity projects are on the way! |
 ---
 
