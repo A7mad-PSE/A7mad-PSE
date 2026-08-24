@@ -109,6 +109,7 @@ timeline
 | 🚀 **[Git Pusher](https://github.com/A7mad-PSE/Git-Pusher)** | Shell script that automates pushing new projects to GitHub |
 | 📁 **[AutoFileSorter](https://github.com/A7mad-PSE/Auto-File-Sorter)** | Python CLI tool to organize messy folders by file type |
 | 🏨 **[Hotel-Management-System](https://github.com/A7mad-PSE/Hotel-Management-System-SLL-CDLL)** | Java & JavaFX Hotel management system using SLL and CDLL |
+| 🤖 **[PDF Q&A with Ollama](https://github.com/A7mad-PSE/RAG_project)** | Local RAG app — chat with your PDFs using LangChain, Chroma and llama3.2, 100% offline |
 | 🛡️ More Coming Soon | More cybersecurity projects are on the way! |
 ---
 
