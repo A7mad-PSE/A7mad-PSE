@@ -1,199 +1,101 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Ethical+Hacker+in+Training;CTF+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 
 <h3 align="center">
-🛡️ Cybersecurity Student • Ethical Hacker in Training • CTF Enthusiast
+🛡️ Cybersecurity Student • Cloud & Security Learner • CTF Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://github.com/A7mad-PSE">
-    <img src="https://img.shields.io/github/followers/A7mad-PSE?style=social">
-  </a>
-
   <a href="https://www.linkedin.com/in/ahmad-ali-hasan-424161389">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin">
-</a>
-
-  <a href="https://tryhackme.com/p/your-username">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge">
   </a>
-
-  <a href="https://www.hackthebox.com/profile/your-id">
-    <img src="https://img.shields.io/badge/Hack_The_Box-Profile-green?logo=hackthebox">
-  </a>
-
-  <a href="mailto:aliahmadhasan1997@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail">
+  <a href="mailto:ahmadalihasan1997@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&style=for-the-badge">
   </a>
 </p>
 
 ---
 
-# 📖 About Me
+## 📖 About Me
 
-🎓 Second-year **Cybersecurity Student** at **Birzeit University**
+🎓 Second-year **Cybersecurity** student at **Birzeit University** (2024–2027), based in Palestine.
 
-💻 Passionate about:
+I build practical security, networking, and AI projects, and I document what I learn along the way. I'm now moving toward **cloud and cloud security**, and I'm looking for internship opportunities (remote or on-site).
 
-- 🛡️ Cybersecurity
-- 🌐 Network Security
-- ⚔️ Ethical Hacking
-- 🚩 CTF Competitions
-- 🔍 Digital Forensics
+🌱 **Currently learning**
 
-📚 I enjoy documenting everything I learn and building practical security projects.
-
-🌱 Currently learning:
-
-- Penetration Testing
-- Network Security
-- Digital Forensics
-- Python Automation
-- Enterprise Networking
+- ☁️ AWS: IAM, EC2, VPC networking (preparing for Cloud Practitioner)
+- 🔍 Penetration testing and digital forensics
+- 🐍 Python automation
+- 🐳 Docker
 
 ---
 
-# 🛠️ My Toolbox
+## 🚀 Featured Projects
+
+| Project | What it does |
+|---------|--------------|
+| 🤖 **[PDF Q&A with Ollama](https://github.com/A7mad-PSE/RAG_project)** | Fully offline RAG app to chat with your PDFs. LangChain, Streamlit, Chroma, and llama3.2, with OCR support, page citations, and 13 Playwright E2E tests. MIT licensed. |
+| 🔍 **[Network Scanner](https://github.com/A7mad-PSE/Network-Scanner)** | Python tool with ping-sweep host discovery, TCP port scanning, OS fingerprinting via TTL, and JSON/TXT export. |
+| 🔐 **[AES Encryption Project](https://github.com/A7mad-PSE/AES-Encryption-Project)** | Java implementation of AES in ECB, CFB, and OFB modes, with email integration. |
+| 🏗️ **[Enterprise Network Design](https://github.com/A7mad-PSE/Network-Design)** | Cisco Packet Tracer network using VLSM, static routing, DHCP, DNS, HTTP, and email servers. |
+| 🌐 **[TCP vs UDP Comparison](https://github.com/A7mad-PSE/TCP-vs-UDP)** | Python client/server demo showing reliable TCP vs unreliable UDP behavior. |
+| 🏨 **[Hotel Management System](https://github.com/A7mad-PSE/Hotel-Management-System-SLL-CDLL)** | Java/JavaFX desktop app built on custom singly and circular doubly linked lists. |
+| 🚗 **[Car Agency Management System](https://github.com/A7mad-PSE/Car-Agency-Management-System)** | Java/JavaFX app built on stack, queue, and AVL tree data structures. |
+| 📁 **[Auto File Sorter](https://github.com/A7mad-PSE/Auto-File-Sorter)** | Python CLI tool that organizes messy folders by file type. |
+| 🚀 **[Git Pusher](https://github.com/A7mad-PSE/Git-Pusher)** | Shell script that pushes a new project to GitHub with one command. |
+
+☁️ **Next up:** deploying my RAG app on AWS with Docker, a custom VPC, Terraform, and GitHub Actions.
+
+---
+
+## 🛠️ Toolbox
 
 | Category | Technologies |
 |----------|--------------|
 | 🐧 Operating Systems | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white) ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) |
-| 💻 Languages | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) |
-| 🔐 Platforms | ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white) ![HackTheBox](https://img.shields.io/badge/Hack_The_Box-111927?logo=hackthebox&logoColor=white) |
-| 🛡️ Security Tools | ![Nmap](https://img.shields.io/badge/Nmap-0E83CD) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-008C8C) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633) |
-| ⚙️ Other | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+| 💻 Languages | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white) |
+| ☁️ Cloud & DevOps | ![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
+| 🤖 AI / Apps | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) |
+| 🛡️ Security & Networking | ![Nmap](https://img.shields.io/badge/Nmap-0E83CD) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-008C8C) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633) |
+
+Networking: TCP/UDP, subnetting, VLSM, static routing, DHCP, DNS, HTTP, Cisco Packet Tracer.
 
 ---
 
-# 📚 Learning Journey
+## 🎓 Certifications
 
-```mermaid
-timeline
-    title Cybersecurity Journey
-
-    2024 : Started Cybersecurity
-         : Network Fundamentals
-         : TryHackMe Pre-Security
-
-    2025 : Ethical Hacking
-         : CTF Challenges
-         : Network Security
-
-    2026 : Advanced Exploitation
-         : Digital Forensics
-         : OSCP Preparation
-```
-
-## 🎯 Current Focus
-
-- 🌐 Network Security
-- 🔍 Penetration Testing
-- ⚔️ CTF Challenges
-- 📡 Digital Forensics
-- 🏗️ Enterprise Networking
-- 🐍 Python Security Tools
+- Google AI Essentials, Google (Jul 2026)
+- Getting Started with Cybersecurity, IBM (Jul 2026)
+- Cybersecurity and Cloud Fundamentals, Fortinet (Jun 2026)
+- Introduction to Next Generation Firewall, Fortinet (Jul 2026)
+- Java (Basic), HackerRank (Jul 2026)
+- Linux Introduction, TrueCert (Aug 2026)
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🔐 **[AES Encryption Project](https://github.com/A7mad-PSE/AES-Encryption-Project)** | Java implementation supporting ECB, CFB and OFB with Email integration |
-| 🌐 **[TCP vs UDP Comparison](https://github.com/A7mad-PSE/TCP-vs-UDP)** | Python client/server comparison of TCP and UDP |
-| 🔍 **[Network Scanner](https://github.com/A7mad-PSE/Network-Scanner)** | Python scanner with Ping Sweep, Port Scanner and OS Detection |
-| 🏗️ **[Enterprise Network Design](https://github.com/A7mad-PSE/Network-Design)** | Cisco Packet Tracer project using VLSM, DHCP, DNS, HTTP and Email |
-| 🚀 **[Git Pusher](https://github.com/A7mad-PSE/Git-Pusher)** | Shell script that automates pushing new projects to GitHub |
-| 📁 **[AutoFileSorter](https://github.com/A7mad-PSE/Auto-File-Sorter)** | Python CLI tool to organize messy folders by file type |
-| 🏨 **[Hotel-Management-System](https://github.com/A7mad-PSE/Hotel-Management-System-SLL-CDLL)** | Java & JavaFX Hotel management system using SLL and CDLL |
-| 🤖 **[PDF Q&A with Ollama](https://github.com/A7mad-PSE/RAG_project)** | Local RAG app — chat with your PDFs using LangChain, Chroma and llama3.2, 100% offline |
-| 🚗 **[Car-Agency-Management-System](https://github.com/A7mad-PSE/Car-Agency-Management-System)** | Java & Java FX Car agency managment system using Stack and Queue and AVL Tree | 
-| 🛡️ More Coming Soon | More cybersecurity projects are on the way! |
----
-
-# 📈 Contribution Graph
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=A7mad-PSE&theme=tokyo-night"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A7mad-PSE&theme=tokyonight"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A7mad-PSE&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 📫 Connect With Me
 
 <p align="center">
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A7mad-PSE&theme=tokyonight"/>
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A7mad-PSE&theme=tokyonight"/>
-
+  <a href="https://github.com/A7mad-PSE">
+    <img src="https://img.shields.io/badge/GitHub-A7mad--PSE-181717?logo=github&style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/ahmad-ali-hasan-424161389">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge">
+  </a>
+  <a href="mailto:ahmadalihasan1997@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&style=for-the-badge">
+  </a>
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A7mad-PSE&theme=tokyonight"/>
-
+  🚀 <b>Keep learning. Keep building. Stay curious.</b>
 </p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=A7mad-PSE&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/A7mad-PSE">
-<img src="https://img.shields.io/badge/GitHub-A7mad--PSE-181717?logo=github&style=for-the-badge">
-</a>
-
-<a href="mailto:aliahmadhasan1997@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&style=for-the-badge">
-</a>
-
-<a href="https://www.linkedin.com/in/ahmad-ali-hasan-424161389">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge">
-</a>
-
-<a href="https://tryhackme.com/p/your-username">
-<img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?logo=tryhackme&style=for-the-badge">
-</a>
-
-<a href="https://www.hackthebox.com/profile/your-id">
-<img src="https://img.shields.io/badge/Hack_The_Box-Profile-111927?logo=hackthebox&style=for-the-badge">
-</a>
-
-</p>
-
----
-
-# 💬 Favorite Quote
-
-> "The only secure computer is one that's unplugged, locked in a vault, and buried 20 feet under the ground."
->
-> **— Gene Spafford**
-
----
-
-<p align="center">
-
-🚀 **Keep learning. Keep hacking. Stay curious.**
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=A7mad-PSE&color=blue&style=flat"/>
-
-</p>
-
----
-
-## 📝 Note
-
-This profile is continuously updated as I learn new technologies, solve CTFs, complete labs, and build cybersecurity projects. Thanks for stopping by!
